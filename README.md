@@ -1,7 +1,7 @@
 # rovabf.github.io
 The page for CV and project archive
 
-Project Manager / Product Manager
-Kim Jeongwon / project.jeongwon@gmail.com
-Tools : Figma, Python for data analysis (pandas, numpy, sklearn etc.), ecxel, ppt, slack, notion
-Languages : Korean(native), English(conversational), Italian(Basic), Japanese(Basic)
+<br>Project Manager / Product Manager</br>
+<br>Kim Jeongwon / project.jeongwon@gmail.com</br>
+<br>Tools : Figma, Python for data analysis (pandas, numpy, sklearn etc.), ecxel, ppt, slack, notion</br>
+<br>Languages : Korean(native), English(conversational), Italian(Basic), Japanese(Basic)</br>
